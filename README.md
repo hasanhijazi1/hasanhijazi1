@@ -2,6 +2,7 @@
 🎓 M2 Cybersecurity Student @ Grenoble INP – Ensimag  
 🔐 Passionate about offensive and defensive security, and applied cryptography.  
 📢 Looking for a 6-month cybersecurity internship starting February 2026.
+🌐 [LinkedIn](https://www.linkedin.com/in/hasan-hijazi111)
 
 <!--
 **hasanhijazi1/hasanhijazi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
